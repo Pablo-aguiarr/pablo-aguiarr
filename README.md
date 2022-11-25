@@ -1,6 +1,6 @@
 ### Olá, eu sou o Pablo Aguiar 😄 
 
-Vou usar esse perfil para colocar alguns projetos de Data science. Se quiser conversar sobre algum projeto específico me procure no linkedin. 
+Vou usar esse perfil para colocar alguns projetos de Data science(python e R) e desenvolvimento em JAVA. Se quiser conversar sobre algum projeto específico me procure no linkedin. 
 
 <div align="center">
   <a href="https://github.com/pablo-aguiarr">
